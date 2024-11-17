@@ -32,11 +32,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- **Top Languages:**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=devayanim23&show_icons=true&locale=en&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devayanim23&show_icons=true&locale=en&layout=compact" alt="devayanim23" />
+</p>
 
-- **Streak Stats:**  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devayanim23&)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devayanim23&" alt="devayanim23" />
+</p>
 
 
 ### 🌟 **Skills and Technologies:**
@@ -47,11 +49,5 @@
 - **Version Control:** Git, GitHub
 - **Others:** Firebase, Heroku, Netlify
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devayanim23&show_icons=true&locale=en&layout=compact" alt="devayanim23" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devayanim23&" alt="devayanim23" />
-</p>
 

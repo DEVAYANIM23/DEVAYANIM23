@@ -27,24 +27,6 @@
 - **Streak Stats:**  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devayanim23&)
 
-### 📂 **My Repositories:**
-Here are a few repositories I’ve worked on:
-
-- [Furniture Shop Website](https://github.com/devayanim23/furniture-shop) 🏡
-- [Weather App](https://github.com/devayanim23/weather-app) 🌤️
-- [Student Database System](https://github.com/devayanim23/student-database) 📚
-
-### 🚀 **Experience:**
-1. **UI/UX Designer Intern** (2024)  
-   - Created layouts and wireframes using **Figma** and **Canva** 🎨.
-   - Worked on user-centered design for several web pages.
-
-2. **Frontend Developer** (2023–Present)  
-   - Developed and maintained web applications using **React**, **HTML**, **CSS**, and **JavaScript**.
-   - Ensured responsive and accessible UI/UX design across multiple platforms.
-
-3. **Virtual Internship** at **Codsoft** (2024) 💼  
-   - Contributed to front-end development of web pages and UI/UX design for various projects.
 
 ### 🌟 **Skills and Technologies:**
 - **Frontend:** HTML, CSS, JavaScript, React.js, TailwindCSS
@@ -54,15 +36,7 @@ Here are a few repositories I’ve worked on:
 - **Version Control:** Git, GitHub
 - **Others:** Firebase, Heroku, Netlify
 
-### 🧑🏻‍🏫 **Education:**
-- **Bachelor of Computer Science Engineering**  
-  *Gujarat Kongu Engineering College, 2025 (Expected)* 🎓
 
-- **Higher Secondary Education (HSE)**  
-  *Vidyaa Vikas Girls Higher Secondary School, 2021* 🎓
-
-- **Secondary School Leaving Certificate (SSLC)**  
-  *Reliance Matric Higher Secondary School, 2019* 🎓
 
 ### 🛠️ **Languages and Tools:**
 <p align="left">
@@ -74,21 +48,6 @@ Here are a few repositories I’ve worked on:
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-### 🔥 **Commit and Activity:**
-- **Total Commits:**  
-  ![Commits](https://img.shields.io/github/commit-activity/m/devayanim23?style=flat-square)
-- **Repositories:**  
-  ![Repositories](https://img.shields.io/github/repo-size/devayanim23?style=flat-square)
-- **Stars:**  
-  ![Stars](https://img.shields.io/github/stars/devayanim23?style=flat-square)
-- **Followers:**  
-  ![Followers](https://img.shields.io/github/followers/devayanim23?style=flat-square)
-  
-### 📝 **Notable Projects:**
-- **Hybrid Approach for Tamil Handwritten Character Recognition using GANs** 🧠: Enhancing recognition clarity through data augmentation and optimization techniques.
-- **Personal Portfolio** 🎨: A showcase of my skills and projects using **HTML**, **CSS**, and **JavaScript**.
-- **Specs Finder** 🔍: A project that involves searching and filtering specs across various products.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devayanim23&show_icons=true&locale=en&layout=compact" alt="devayanim23" />

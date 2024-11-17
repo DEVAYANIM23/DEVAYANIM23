@@ -26,6 +26,14 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
+### 🌟 **Skills and Technologies:**
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js
+- **Design Tools:** Figma, Canva, Framer
+- **Database:** MongoDB, MySQL
+- **Version Control:** Git, GitHub
+- **Others:** Firebase, Vercel, Netlify
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devayanim23&label=Profile%20views&color=0e75b6&style=flat" alt="devayanim23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devayanim23" alt="devayanim23" /></a> </p>
@@ -41,13 +49,7 @@
 </p>
 
 
-### 🌟 **Skills and Technologies:**
-- **Frontend:** HTML, CSS, JavaScript, React.js, TailwindCSS
-- **Backend:** Node.js, Express
-- **Design Tools:** Figma, Canva, Adobe Illustrator
-- **Database:** MongoDB, MySQL
-- **Version Control:** Git, GitHub
-- **Others:** Firebase, Heroku, Netlify
+
 
 
 

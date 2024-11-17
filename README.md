@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devayani Murugesan</h1>
 <h3 align="center">A passionate frontend developer 👩🏻‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devayanim23&label=Profile%20views&color=0e75b6&style=flat" alt="devayanim23" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devayanim23" alt="devayanim23" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">About Me:</h3>
+<h3 align="left"><i><b>About Me:</b></i></h3>
 <p align="left">
 I am **Devayani Murugesan**, a passionate Computer Science Engineering student with expertise in **front-end development**, **UI/UX designing**, and **data visualization**. I specialize in crafting innovative and user-friendly interfaces using technologies like **HTML**, **CSS**, **JavaScript**, and **React**. My focus lies in combining creativity with technical skills to develop visually appealing and functional web applications. I thrive on exploring new tools and technologies, constantly expanding my knowledge to stay ahead in the tech world.
 </p>
@@ -22,6 +20,8 @@ I am **Devayani Murugesan**, a passionate Computer Science Engineering student w
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/devayanim_21cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/devayanim_21cse" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/devayani_m_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devayani_m_/" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devayanim23&label=Profile%20views&color=0e75b6&style=flat" alt="devayanim23" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

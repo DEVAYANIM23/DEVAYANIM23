@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Frontend Developer 👩🏻‍💻 | UI/UX Designer 🎨 | Data Enthusiast 📊</h3>
 <h3 align="left">About Me:</h3>
 <p align="left">
-  I am <strong>Devayani Murugesan</strong> 👩🏻‍💻, a passionate Computer Science Engineering student 🎓 with expertise in <strong>front-end development</strong> 💻,             <strong>UI/UX designing</strong> 🎨, and <strong>data visualization</strong> 📊. I specialize in crafting innovative and user-friendly interfaces using technologies like <strong>HTML</strong> 🌐, <strong>CSS</strong> 🎨, <strong>JavaScript</strong> 💡, and <strong>React</strong> ⚛️. My focus lies in combining creativity with technical skills to develop visually appealing and functional web applications. I thrive on exploring new tools and technologies 🔧, constantly expanding my knowledge 📚 to stay ahead in the tech world 🚀.
+  I am <strong>Devayani Murugesan</strong> 👩🏻‍💻, a passionate Computer Science Engineering student 🎓 with expertise in <strong>front-end development</strong> 💻,<strong>UI/UX designing</strong> 🎨, and <strong>data visualization</strong> 📊. I specialize in crafting innovative and user-friendly interfaces using technologies like <strong>HTML</strong> 🌐, 
+<strong>CSS</strong> 🎨, <strong>JavaScript</strong> 💡, and <strong>React</strong> ⚛️. My focus lies in combining creativity with technical skills to develop visually appealing and functional web applications. I thrive on exploring new tools and technologies 🔧, constantly expanding my knowledge 📚 to stay ahead in the tech world 🚀.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

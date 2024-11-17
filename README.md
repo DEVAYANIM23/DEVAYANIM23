@@ -1,22 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devayani Murugesan</h1>
 <h3 align="center">A passionate Frontend Developer 👩🏻‍💻 | UI/UX Designer 🎨 | Data Enthusiast 📊</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devayanim23" alt="devayanim23" />
-  </a>
-</p>
-
+<h3 align="left">About Me:</h3>
 <p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a> 
+  I am <strong>Devayani Murugesan</strong> 👩🏻‍💻, a passionate Computer Science Engineering student 🎓 with expertise in <strong>front-end development</strong> 💻, <strong>UI/UX designing</strong> 🎨, and <strong>data visualization</strong> 📊. I specialize in crafting innovative and user-friendly interfaces using technologies like <strong>HTML</strong> 🌐, <strong>CSS</strong> 🎨, <strong>JavaScript</strong> 💡, and <strong>React</strong> ⚛️. My focus lies in combining creativity with technical skills to develop visually appealing and functional web applications. I thrive on exploring new tools and technologies 🔧, constantly expanding my knowledge 📚 to stay ahead in the tech world 🚀.
 </p>
 
-### 🧑🏻‍💻 **About Me:**
-I'm **Devayani Murugesan**, a **Computer Science Engineering** student with a passion for **Frontend Development** 🌐. I specialize in creating beautiful and responsive web applications using **HTML**, **CSS**, **JavaScript**, **React**, and **UI/UX Design** 🎨. I'm continuously learning new technologies to enhance my skills in the ever-evolving tech industry 🚀.
-
-I enjoy solving complex problems with creative solutions 💡, and I love to experiment with **data visualization** 📊, **design systems** 🎨, and **front-end optimization** ⚡. I'm excited to share my journey and contributions in the tech community!
 
 ### 📞 **Connect With Me:**
 - [LinkedIn](https://www.linkedin.com/in/devayanimurugesan98/) 💼

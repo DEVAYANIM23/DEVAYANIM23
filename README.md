@@ -4,15 +4,16 @@
 <p align="left">
   I am <strong>Devayani Murugesan</strong> 👩🏻‍💻, a passionate Computer Science Engineering student 🎓 with expertise in <strong>front-end development</strong> 💻, <strong>UI/UX designing</strong> 🎨, and <strong>data visualization</strong> 📊. I specialize in crafting innovative and user-friendly interfaces using technologies like <strong>HTML</strong> 🌐, <strong>CSS</strong> 🎨, <strong>JavaScript</strong> 💡, and <strong>React</strong> ⚛️. My focus lies in combining creativity with technical skills to develop visually appealing and functional web applications. I thrive on exploring new tools and technologies 🔧, constantly expanding my knowledge 📚 to stay ahead in the tech world 🚀.
 </p>
-
-
-### 📞 **Connect With Me:**
-- [LinkedIn](https://www.linkedin.com/in/devayanimurugesan98/) 💼
-- [GitHub](https://github.com/devayanim23) 👩‍💻
-- [CodePen](https://codepen.io/devayani-murugesan) ✍️
-- [Instagram](https://www.instagram.com/__dev._.___) 📸
-- [Twitter](https://twitter.com/) 🐦
-- [Kaggle](https://www.kaggle.com/devdhivya) 📈
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/devayani-murugesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/devayani-murugesan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/devayanimurugesan98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devayanimurugesan98/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/devdhivya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/devdhivya" height="30" width="40" /></a>
+<a href="https://instagram.com/__dev._.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__dev._.___" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/devayanim_98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/devayanim_98" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/devayanim_21cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/devayanim_21cse" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/devayani_m_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devayani_m_/" height="30" width="40" /></a>
+</p>
 
 ### 📊 **Stats and Contributions:**
 <p align="center">

@@ -37,7 +37,7 @@
 - **Backend:** Node.js
 - **Design Tools:** Figma, Canva, Framer
 - **Database:** MongoDB, MySQL, Firebase
-- **Version Control:** Git, GitHub
+- **Version Control:** Git & GitHub
 - **Others:** Excel, Vercel, Netlify
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devayanim23&label=Profile%20views&color=0e75b6&style=flat" alt="devayanim23" /> </p>
